@@ -1,0 +1,96 @@
+body {
+    font-family:Roboto;
+    text-decoration:none;
+background-color:#FFFFFF;}
+.button {color:#2196F3}
+.logo {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    color: #2196F3}
+.accent { 
+    text-decoration:none;
+    color:black;}
+.accent_title { 
+    text-decoration:none;
+    color:#FFFFFF;}
+.title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: #212121;}
+.hero_title{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration:none;
+     color: #FFFFFF;}
+.title_text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-decoration:none;
+    color: #757575;}
+.desc {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-decoration:none;
+    
+    color: #212121;}
+.list {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+     text-align: center;
+    letter-spacing: 0.03em;
+    text-decoration:none;
+    color: #212121;}
+.item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-decoration:none;
+    color: #757575;}
+.img {
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 262px;
+}
+.header {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;} 
+.header:hover {color: #2196F3;}
+.footer {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color:#757575}
+.footer_item {
+    color: #FFFFFF;}
+.img {text-decoration:none;}
+.logo_footer {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    color: #2196F3}
